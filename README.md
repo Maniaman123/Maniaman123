@@ -26,8 +26,8 @@ Selamat datang di profil GitHub saya! Saya sedang belajar dan mengembangkan kema
 Jika kamu tertarik bekerja sama, belajar bareng, atau hanya ingin ngobrol soal teknologi:
 
 **Email:** `reybogor759@email.com`  
-
----
+**Nomor:** `0822-4608-5843`
+----
 
 > “Tetap belajar, tetap penasaran, dan tetap berkembang.”
 
