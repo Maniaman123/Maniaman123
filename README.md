@@ -10,7 +10,7 @@ Selamat datang di profil GitHub saya! Saya sedang belajar dan mengembangkan kema
 - 📍 Lokasi: Indonesia  
 - 🌱 Sedang belajar: Front-End Web Development  
 - 🎯 Target: Membangun website pribadi yang interaktif dan keren  
-- 💼 Minat: Web Design, UI/UX, dan pengembangan kreatif lainnya
+- 💼 Minat: Web Design, UI/UX, dan Software Engineer
 
 ---
 
